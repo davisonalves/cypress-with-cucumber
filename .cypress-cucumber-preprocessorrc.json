@@ -1,0 +1,10 @@
+{
+    "html": {
+        "enabled": true,
+        "output": "./relatorio/cucumber.html"
+    },
+    "messages": {
+        "enabled": true,
+        "output": "./relatorio/messages.json"
+    }
+}
